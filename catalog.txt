@@ -1,0 +1,1 @@
+{"Harry Potter": {"title": "Harry Potter", "author": "J.K. Rowling", "ISBN": "12349912837", "genre": "fantasy", "publication_date": "12/15/1992", "publisher": "Rowling", "availability_status": true}}
